@@ -1,0 +1,114 @@
+reference_number,key,supplied_record_id,title,status,url
+1,noy,,Experimental evidence on the productivity effects of generative artificial intelligence,Checked primary-paper metadata,https://doi.org/10.1126/science.adh2586
+2,brynj,,Generative AI at work,Checked primary-paper metadata,https://doi.org/10.1093/qje/qjae044
+3,bastani,,Generative AI without guardrails can harm learning: Evidence from high school mathematics,Checked primary-paper metadata,https://doi.org/10.1073/pnas.2422633122
+4,risko,,Cognitive offloading,Checked primary-paper metadata,https://doi.org/10.1016/j.tics.2016.07.002
+5,sparrow,,Google effects on memory: Cognitive consequences of having information at our fingertips,Checked primary-paper metadata,https://doi.org/10.1126/science.1207745
+6,paras,,"Humans and automation: Use, misuse, disuse, abuse",Checked primary-paper metadata,https://doi.org/10.1518/001872097778543886
+7,lee,,Trust in automation: Designing for appropriate reliance,Checked primary-paper metadata,https://doi.org/10.1518/hfes.46.1.50_30392
+8,chi,,Self-explanations: How students study and use examples in learning to solve problems,Checked primary-paper metadata,https://doi.org/10.1207/s15516709cog1302_1
+9,roediger,,Test-enhanced learning: Taking memory tests improves long-term retention,Checked primary-paper metadata,https://doi.org/10.1111/j.1467-9280.2006.01693.x
+10,dunlosky,,Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology,Checked primary-paper metadata,https://doi.org/10.1177/1529100612453266
+11,sweller,,Cognitive load during problem solving: Effects on learning,Checked primary-paper metadata,https://doi.org/10.1207/s15516709cog1202_4
+12,kalyuga,,The expertise reversal effect,Checked primary-paper metadata,https://doi.org/10.1207/S15326985EP3801_4
+13,bucinca,,To trust or to think: Cognitive forcing functions can reduce overreliance on AI in AI-assisted decision-making,Checked primary-paper metadata,https://doi.org/10.1145/3449287
+14,amershi,,Guidelines for human-AI interaction,Checked primary-paper metadata,https://doi.org/10.1145/3290605.3300233
+15,lai,,On human predictions with explanations and predictions of machine learning models: A case study on deception detection,Checked primary-paper metadata,https://doi.org/10.1145/3287560.3287590
+16,schemmer,,Appropriate reliance on AI advice: Conceptualization and the effect of explanations,Checked primary-paper metadata,https://doi.org/10.1145/3581641.3584066
+17,s40,40,Trust calibration in human-AI collaborative decision-making: A cross-domain investigation of climate intelligence and organisational governance systems,Checked primary abstract or metadata,https://doi.org/10.1007/s42454-026-00111-4
+18,s68,68,AI governance and ethical frameworks for public-sector AI decision systems: An institutional operationalisation model,Checked primary abstract or metadata,https://doi.org/10.1007/s43681-026-01143-x
+19,s32,32,Feedback withdrawal and independent competence in AI-assisted laparoscopic surgical training,Checked primary abstract or metadata,https://doi.org/10.2139/ssrn.7571293
+20,s84,84,"AI-mediated learning environments, pedagogical uncertainty, and the ethics of belonging",Checked primary abstract or metadata,https://doi.org/10.21203/rs.3.rs-8688758/v1
+21,schuirmann,,A comparison of the two one-sided tests procedure and the power approach for assessing the equivalence of average bioavailability,Checked primary-paper metadata,https://doi.org/10.1007/BF01068419
+22,lakens,,"Equivalence tests: A practical primer for t tests, correlations, and meta-analyses",Checked primary-paper metadata,https://doi.org/10.1177/1948550617697177
+23,nahum,,Just-in-time adaptive interventions (JITAIs) in mobile health: Key components and design principles for ongoing health behavior support,Checked primary-paper metadata,https://doi.org/10.1007/s12160-016-9830-8
+24,klasnja,,Microrandomized trials: An experimental design for developing just-in-time adaptive interventions,Checked primary-paper metadata,https://doi.org/10.1037/hea0000305
+25,morris,,Using simulation studies to evaluate statistical methods,Checked primary-paper metadata,https://doi.org/10.1002/sim.8086
+26,holm,,A simple sequentially rejective multiple test procedure,Checked primary-paper metadata,https://sci2s.ugr.es/keel/pdf/specific/articulo/0052_001.pdf
+27,rubin,,Inference and missing data,Checked primary-paper metadata,https://doi.org/10.1093/biomet/63.3.581
+28,mice,,mice: Multivariate imputation by chained equations in R,Checked primary-paper metadata,https://doi.org/10.18637/jss.v045.i03
+29,s8,8,Integrating AI and encryption to safeguard digital assets globally,Supplied record; not independently verified,https://doi.org/10.38124/ijisrt/25sep1242
+30,s14,14,Balancing AI efficiency and ethics for long-term business sustainability,Supplied record; not independently verified,https://journal.ijresm.com/index.php/ijresm/article/view/3340
+31,s15,15,Extractive mechanisms in democratic media: Platform capitalism and the paradox of TikTok live streaming infrastructure,Supplied record; not independently verified,https://zenodo.org/records/18806657
+32,s16,16,Regulatory architectures for autonomous AI agents: A comparative jurisprudential analysis of UK and EU frameworks,Supplied record; not independently verified,https://zenodo.org/records/18806260
+33,s17,17,"Bias, transparency and accountability in algorithmic human resource management",Supplied record; not independently verified,https://www.sciencedirect.com/science/article/pii/S3051064326002591
+34,s29,29,"The calculus of control: Metrics, morality, and the machinery of governance in pre-algorithmic optimization systems",Supplied record; not independently verified,https://doi.org/10.21203/rs.3.rs-9087686/v1
+35,s30,30,When metrics govern: Pre-algorithmic optimisation and the ethics of artificial intelligence,Supplied record; not independently verified,https://doi.org/10.21203/rs.3.rs-8752951/v1
+36,s36,36,The structural tension between AI optimisation and ethical governance: Empirical evidence from organisational decision-making,Supplied record; not independently verified,https://doi.org/10.21203/rs.3.rs-8605675/v1
+37,s37,37,"When AI measures sustainability: Ethical risks of metrics, bias, and SDG-washing",Supplied record; not independently verified,https://doi.org/10.21203/rs.3.rs-8564828/v1
+38,s39,39,Human-centred prescriptive on sociotechnical accountability frameworks for ethical AI-driven sustainability management in SMEs,Supplied record; not independently verified,
+39,s42,42,An ethical-legal framework for AI early warning systems in trafficking prevention,Supplied record; not independently verified,https://doi.org/10.21203/rs.3.rs-9801239/v1
+40,s43,43,Child-rights disclosure without remedy: Strategic governance gaps in food supply chains,Supplied record; not independently verified,https://ssrn.com/abstract=7150555
+41,s44,44,Child-safe platform marketing governance: Evidence from digital business risk pathways,Supplied record; not independently verified,https://doi.org/10.1016/j.sbr.2026.100292
+42,s45,45,Safeguarding capability as strategy: Digital whistleblowing for women,Supplied record; not independently verified,https://ssrn.com/abstract=7088064
+43,s46,46,Safeguarding human agency through noncompensatory evaluation of intelligent institutional systems,Supplied record; not independently verified,
+44,s49,49,Governing real-time carbon intelligence through assurance-gated decisions in sustainable supply chains,Supplied record; not independently verified,https://ssrn.com/abstract=7493999
+45,s56,56,Digital sovereignty in the age of AI and sustainable transformation: A multi-layered governance framework,Supplied record; not independently verified,https://zenodo.org/records/18748275
+46,s57,57,Digital transformation in international arbitration: Reconfiguring legal frameworks and procedural integrity in the algorithmic era,Supplied record; not independently verified,https://zenodo.org/records/18775222
+47,s58,58,"Layered sovereignty and digital governance: Comparative models of infrastructure, regulation, and AI-mediated control in the global data economy",Supplied record; not independently verified,https://zenodo.org/records/18748987
+48,s67,67,Optimising project portfolios through responsible AI and ethical compliance,Supplied record; not independently verified,https://doi.org/10.5281/zenodo.18021350
+49,s69,69,Ethical frameworks for AI-enabled decision analytics in digital governance: A multi-stakeholder perspective,Supplied record; not independently verified,https://doi.org/10.21203/rs.3.rs-9066551/v1
+50,s76,76,Converting AI governance commitments into public value through timely institutional redress,Supplied record; not independently verified,
+51,s80,80,"Integrated ethical framework for digital transformation: Balancing AI governance, supply chain resilience, and sustainable infrastructure",Supplied record; not independently verified,https://doi.org/10.5281/zenodo.18788416
+52,s85,85,From compliance to self-advocacy: Neurodiversity-affirming SEL for ADHD and autistic students,Supplied record; not independently verified,https://zenodo.org/records/21455037
+53,s86,86,How trauma-informed pedagogy works: Parallel social-emotional mediation of adolescent academic behavioural outcomes,Supplied record; not independently verified,https://doi.org/10.5281/zenodo.21496086
+54,s88,88,"Social-emotional learning, mentoring quality, and persistence: A multi-institutional empirical study",Supplied record; not independently verified,https://zenodo.org/records/21495771
+55,s89,89,"Teacher emotional labor, burnout, and SEL fidelity: Pathways to student behavioral outcomes",Supplied record; not independently verified,https://zenodo.org/records/21495287
+56,s18,18,Trust-constrained dynamic pricing for fair personalisation and sustainable long-term customer value creation,Supplied record; not independently verified,https://ssrn.com/abstract=7272453
+57,s19,19,When smart prices feel unfair: Rebuilding consumer trust in algorithmic markets,Supplied record; not independently verified,https://ssrn.com/abstract=7228537
+58,s38,38,Beyond transparency: Strategic contestability in algorithmic pricing and consumer trust,Supplied record; not independently verified,https://ssrn.com/abstract=7272449
+59,s53,53,Explainable supplier ranking improves risk calibration in new-product development under correlated disruptions,Supplied record; not independently verified,https://ssrn.com/abstract=7304537
+60,s54,54,Governing algorithmic pricing through disclosure redress capacity and consumer trust,Supplied record; not independently verified,
+61,s72,72,"Fairness signals, consumer agency, and trust in algorithmic pricing ecosystems",Supplied record; not independently verified,https://ssrn.com/abstract=7272454
+62,s78,78,"Fairness-constrained dynamic pricing strategically balances profit, equity and consumer trust risk",Supplied record; not independently verified,https://ssrn.com/abstract=7272455
+63,s1,1,Strategic tax architecture and foreign direct investment resilience in resource-rich Nigeria,Supplied record; not independently verified,https://ssrn.com/abstract=7051356
+64,s2,2,The impact of tertiary education tax on foreign direct investment in Nigeria: Evidence from long-run time series analysis,Supplied record; not independently verified,https://zenodo.org/records/21413685
+65,s3,3,"Synthetic data augmentation for consumer choice models: Utility, privacy, and value",Supplied record; not independently verified,https://doi.org/10.1016/j.sbr.2026.100277
+66,s4,4,Tax policy predictability and foreign investment resilience in resource-rich Africa,Supplied record; not independently verified,https://ssrn.com/abstract=7176301
+67,s9,9,Comparing green capability performance associations through a reproducible score level simulation,Supplied record; not independently verified,
+68,s10,10,"AI capability, adoption, dynamic renewal and SME performance: An exploratory secondary reanalysis",Supplied record; not independently verified,https://doi.org/10.1016/j.sbr.2026.100297
+69,s51,51,Calibrated synthetic consumer panels for governed strategic market testing,Supplied record; not independently verified,https://doi.org/10.1016/j.sbr.2026.100269
+70,s52,52,Cost-efficiency and return on investment of synthetic data generation in strategic market research: A quantitative decision framework,Supplied record; not independently verified,https://ssrn.com/abstract=7126923
+71,s77,77,Bridging the trust gap: Assuring predictive validity and trustworthiness in AI-generated consumer behaviour insights,Supplied record; not independently verified,https://doi.org/10.1016/j.sbr.2026.100291
+72,s79,79,Interoperable token liquidity and consumer retention across blockchain loyalty ecosystems,Supplied record; not independently verified,https://doi.org/10.1016/j.sbr.2026.100283
+73,s87,87,Scaling artificial intelligence: Diffusion speed and enterprise-size polarisation across Europe,Supplied record; not independently verified,https://www.sciencedirect.com/science/article/pii/S3051064326002694
+74,s5,5,Digital twin-enabled predictive maintenance for climate-smart food dehydration in tropical climates,Supplied record; not independently verified,
+75,s24,24,Resilient supply chains and sustainability for digital transformation in remote work,Supplied record; not independently verified,
+76,s26,26,Analysis of digital twin-enabled lean-green manufacturing for sustainable industrial systems,Supplied record; not independently verified,https://zenodo.org/records/19206423
+77,s27,27,Cyber-physical lean-green systems: Integrating IoT and digital twins for sustainable production,Supplied record; not independently verified,https://www.researchgate.net/publication/403143828_Cyber-Physical_Lean-Green_Systems_Integrating_IoT_and_Digital_Twins_for_Sustainable_Production
+78,s28,28,Sustainable supply chain optimisation using lean-green principles: A quantitative and qualitative analysis,Supplied record; not independently verified,https://doi.org/10.5281/zenodo.19206285
+79,s70,70,"Resilient and sustainable digital supply chains: An integrated framework leveraging AI, IoT, and digital twin technologies",Supplied record; not independently verified,https://doi.org/10.5281/zenodo.18899032
+80,s12,12,Integrating health into techno-economic assessment for solar-powered hospital water systems,Supplied record; not independently verified,https://doi.org/10.1007/s42108-026-00508-6
+81,s13,13,The hidden health-economic costs of failing water-energy infrastructure,Supplied record; not independently verified,https://doi.org/10.1007/s42108-026-00541-5
+82,s21,21,Embedding safeguarding in integrated care for older adults,Supplied record; not independently verified,https://ijsra.net/sites/default/files/fulltext_pdf/IJSRA-2025-2655.pdf
+83,s23,23,Life-course impact of trauma on stress biology,Supplied record; not independently verified,https://doi.org/10.38124/ijisrt/25sep910
+84,s31,31,Advanced membrane technologies for drinking-water safety: A biomedical engineering scoping review,Supplied record; not independently verified,https://doi.org/10.1016/j.scowo.2026.100307
+85,s33,33,Integrating digital health informatics to improve mental and physical health outcomes: A cross-sectional evaluation of ICT-enabled care pathways,Supplied record; not independently verified,https://ouci.dntb.gov.ua/en/works/4YmrBVea/
+86,s55,55,AI-augmented mental health care in Sahelian herder-farmer corridors: Ethical and scalable approaches via pastoral data trusts,Supplied record; not independently verified,https://sai.southam.pub/index.php/sai/article/view/15
+87,s59,59,Bridging the gap: Rural-urban disparities in healthcare access,Supplied record; not independently verified,https://doi.org/10.5281/zenodo.17723243
+88,s61,61,Mechanisms and equity in tobacco control: Global policy pathways,Supplied record; not independently verified,https://doi.org/10.55248/gengpi.06.1125.3894
+89,s65,65,Evaluating digital health tools in chronic disease management effectiveness,Supplied record; not independently verified,
+90,s66,66,"Integrating one health, behavioural dynamics, and surveillance to control emerging infectious disease threats",Supplied record; not independently verified,
+91,s75,75,Eco-friendly innovation: Enhancing orthotic production with additive manufacturing,Supplied record; not independently verified,https://doi.org/10.1016/j.psep.2026.108665
+92,s81,81,Leadership dynamics and organisational culture in resource-constrained healthcare: A mixed-methods analysis of frontline management effectiveness,Supplied record; not independently verified,
+93,s82,82,Leadership dynamics and staff performance in resource-constrained healthcare settings: A sequential explanatory mixed-methods investigation,Supplied record; not independently verified,
+94,s6,6,Advancing urban governance through integrated BIM–DT–CIM models,Supplied record; not independently verified,https://doi.org/10.30574/wjbphs.2025.23.3.0875
+95,s7,7,AI-powered predictive control in digital twin HVAC systems,Supplied record; not independently verified,https://ijrpr.com/uploads/V6ISSUE9/IJRPR53234.pdf
+96,s11,11,Humidity-aware agro-waste biochar–MOF adsorbents for solar-regenerated CO₂ capture: A mechanistic circular-economy design framework,Supplied record; not independently verified,https://doi.org/10.1016/j.jece.2026.124636
+97,s20,20,Solar photocatalysis for emerging pollutant removal in water: Field-scale irradiance–kinetics analysis,Supplied record; not independently verified,https://doi.org/10.1007/s42108-026-00521-9
+98,s22,22,Integrating IoT and digital twins to transform urban governance,Supplied record; not independently verified,https://journal.ijprse.com/index.php/ijprse/article/view/1228
+99,s25,25,Transforming resilience with predictive digital twin technologies,Supplied record; not independently verified,https://doi.org/10.30574/wjbphs.2025.23.3.0850
+100,s34,34,Intelligent membrane systems for low-emission nitrogen management in agricultural wastewaters,Supplied record; not independently verified,https://ssrn.com/abstract=6137613
+101,s35,35,"Safer, longer-lasting batteries using a smart gel electrolyte mix",Supplied record; not independently verified,https://doi.org/10.1016/j.fub.2025.100132
+102,s41,41,Circular carbon capture and utilisation pathways for sustainable agricultural systems,Supplied record; not independently verified,https://doi.org/10.1016/j.scowo.2026.100246
+103,s47,47,Data-driven modelling of behavioural cost–carbon trade-offs for smart environmental decision support,Supplied record; not independently verified,https://doi.org/10.21203/rs.3.rs-8866333/v1
+104,s48,48,From waste to power: Lifecycle-optimised biodegradable piezoelectric systems for sustainable energy harvesting,Supplied record; not independently verified,https://doi.org/10.1016/j.scowo.2026.100244
+105,s50,50,Smart solar water treatment: Sensor-informed control of solar TiO₂ photocatalysis for sustainable environmental water treatment,Supplied record; not independently verified,https://doi.org/10.1016/j.scowo.2026.100213
+106,s60,60,Dual-triggered herbicide delivery for sustainable Sahelian agriculture,Supplied record; not independently verified,https://ijarpr.com/uploads/V2ISSUE11/IJARPR1129.pdf
+107,s62,62,Smart magnesium batteries: Using AI to power greener and more reliable desalination systems,Supplied record; not independently verified,https://www.sciencedirect.com/science/article/pii/S2950264026000122
+108,s63,63,"AI-driven regenerative agriculture of socioecological framework for biodiversity, climate resilience, and soil health",Supplied record; not independently verified,https://doi.org/10.9790/487X-2708083948
+109,s64,64,AI-driven integrated solar-agrivoltaics systems transforming food security in West Africa,Supplied record; not independently verified,
+110,s71,71,Comparative environmental assessment of magnesium-ion and lithium-ion batteries using artificial intelligence,Supplied record; not independently verified,https://ssrn.com/abstract=6779039
+111,s73,73,Machine learning-based groundwater contamination risk prediction from lithium-ion battery waste,Supplied record; not independently verified,https://ssrn.com/abstract=6779040
+112,s74,74,Renewable electricity as a design metric for profitable sustainable chemistry,Supplied record; not independently verified,
+113,s83,83,AI-enabled earth observation as a strategic capability for climate-resilient infrastructure management,Supplied record; not independently verified,https://ssrn.com/abstract=7467825

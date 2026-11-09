@@ -1,0 +1,17 @@
+[
+  [
+    "$\\mathbf{z}_i=\\mathbf{B}^{\\mathsf{T}}\\mathbf{x}_i+\\mathbf{\\varepsilon}_i,\\quad\\mathbf{\\varepsilon}_i\\sim\\mathcal{N}_2(\\mathbf{0},\\mathbf{\\Sigma}),\\quad\\mathbf{z}_i=(Y_i,\\log T_i)^{\\mathsf{T}}$",
+    "$\\mathbf{x}_i=(1,S_i,A_i,a_i,S_i a_i,A_i a_i)^{\\mathsf{T}},\\quad\\mathbf{B}=(\\mathbf{\\beta},\\mathbf{\\alpha})$"
+  ],
+  [
+    "$D_i=Y_i+d_{C_i}+\\eta_i,\\quad\\eta_i\\sim\\mathcal{N}(0,4^2),\\quad(d_O,d_S,d_A)=(-14,-6,-5)$"
+  ],
+  [
+    "$G=\\mathbf{1}\\{\\widehat{\\beta}_A-t_{0.95,n-6}\\,\\mathrm{SE}(\\widehat{\\beta}_A)>5\\}$",
+    "$\\qquad\\times\\mathbf{1}\\{\\widehat{\\alpha}_A+t_{0.95,n-6}\\,\\mathrm{SE}(\\widehat{\\alpha}_A)<\\log(1.10)\\}$"
+  ],
+  [
+    "$r=p\\,s+(1-p)(1-c),\\quad\\Delta_Y=b\\,p\\,s-h(1-p)(1-c)$",
+    "$R_T=1+kr/T_0,\\quad\\mathcal{F}=\\{(s,c):\\Delta_Y\\geq5,\\ R_T\\leq1.10\\}$"
+  ]
+]
