@@ -1,10 +1,24 @@
-# Reproducibility supplement
+# Testing Adaptive Friction for Generative AI Programming Through Reproducible Simulations
 
-Manuscript: Testing Adaptive Friction for Generative AI Programming Through Reproducible Simulations
+This repository contains the reproducibility supplement for the published article:
 
-## Evidence status
+**Testing Adaptive Friction for Generative AI Programming Through Reproducible Simulations**
 
-This is a simulation-only study. No participant experiment was conducted. All gains, time costs, moderator effects and delayed changes are imposed scenario assumptions. A successful simulation does not validate adaptive prompting in human users. The analytical trigger model is a separate sensitivity exercise, not a calibrated mechanism underlying the arm-level simulations.
+**Authors:** Godson N Ozioma, Chidera Omoyemi Duru, Ijeoma C. Mordi  
+**Journal:** International Journal of Research Publication and Reviews  
+**Volume:** 7  
+**Issue:** 11  
+**Pages:** 1246–1258  
+**Publication date:** November 2026  
+
+**Published article:**  
+https://ijrpr.com/uploads/V7ISSUE11/IJRPR72160.pdf
+
+## About this repository
+
+This repository contains the complete simulation code, generated synthetic data, Monte Carlo results, figures, equation sources, reference audit files, and supporting reproducibility material for the study.
+
+This is a simulation-only study. No human participant experiment was conducted. All reported gains, time costs, moderator effects, and delayed changes arise from specified simulation assumptions and should not be interpreted as observed human effects.
 
 ## Run
 
